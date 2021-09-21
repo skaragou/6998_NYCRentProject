@@ -22,4 +22,5 @@ Data:
 * **apartments_price_change.csv:** Experimental dataset of using price-change instead of full-prices, was not used due to time constraints.
 
 [Paper](https://github.com/skaragou/6998_NYCRentProject/blob/main/misc/final_paper.pdf)
+
 [Presentation](https://github.com/skaragou/6998_NYCRentProject/blob/main/misc/presentation.pdf)
